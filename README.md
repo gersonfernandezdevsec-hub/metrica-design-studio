@@ -12,7 +12,7 @@ Sitio web de un estudio de diseño de espacios y señalización (residencial, co
 
 🔗 En línea: https://metricadesignstudio.com
 
-> Este repositorio contiene solo capturas y la descripción técnica. El código fuente es del cliente y no se publica.
+> Este repositorio contiene solo capturas y la descripción técnica.
 
 ### Qué hace
 - Portada con una escena animada en canvas que recorre las 6 etapas de un trabajo: visita y medidas, bocetos, planos, render 3D, archivos de fabricación e instalación.
@@ -75,7 +75,7 @@ Website for a space and signage design studio (residential, retail/commercial, b
 
 🔗 Live: https://metricadesignstudio.com
 
-> This repository only holds screenshots and the technical write-up. The source code belongs to the client and is not published.
+> This repository only holds screenshots and the technical write-up.
 
 ### What it does
 - Home page with an animated canvas scene that walks through the 6 stages of a job: site survey, sketches, drawings, 3D render, fabrication files and installation.
