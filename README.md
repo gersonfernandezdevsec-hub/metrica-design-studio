@@ -8,7 +8,7 @@
 
 ## Español
 
-Sitio web de un estudio de diseño de espacios y señalización (residencial, comercial, branding y rotulación) con base en New Jersey y entrega remota a todo el mundo. Lo desarrollé para una arquitecta, con su aprobación, **trabajando con asistencia de IA (Claude Code)**: yo definí requisitos, revisé el resultado, tomé las decisiones de diseño y de despliegue, y lo puse en producción.
+Sitio web de un estudio de diseño de espacios y señalización (residencial, comercial, branding y rotulación) con base en New Jersey y entrega remota a todo el mundo. Lo desarrollé para una arquitecta, con su aprobación. Fui asistido por IA.
 
 🔗 En línea: https://metricadesignstudio.com
 
@@ -71,7 +71,7 @@ Despliegue en la nube con dominio y HTTPS, manejo de secretos, protección de fo
 
 ## English
 
-Website for a space and signage design studio (residential, retail/commercial, branding and signage) based in New Jersey, delivering remotely worldwide. I built it for an architect, with her approval, **working with AI assistance (Claude Code)**: I set the requirements, reviewed the output, made the design and deployment decisions, and took it to production.
+Website for a space and signage design studio (residential, retail/commercial, branding and signage) based in New Jersey, delivering remotely worldwide. I built it for an architect, with her approval. I was assisted by AI.
 
 🔗 Live: https://metricadesignstudio.com
 
